@@ -1,0 +1,2 @@
+# JudgeBot
+Master's thesis
